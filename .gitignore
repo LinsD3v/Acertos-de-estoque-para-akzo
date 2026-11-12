@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporários
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# G Drive
+desktop.ini
